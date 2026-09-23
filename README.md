@@ -17,3 +17,8 @@
 1. Установи библиотеки:
    `pip install psutil requests python-dotenv`
 2. Создай `.env` с токеном и chat_id:
+3. Запусти:
+`python monitor.py`
+
+## Автор
+GrimLord1290
